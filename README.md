@@ -1,3 +1,5 @@
-# ML_Modulo_0
+# Itinerario de Machine Learning. 
 
-Test de las herramientas y comandos básicos
+## Modulo 0
+
+Test de las herramientas y comandos básicos.
