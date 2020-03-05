@@ -8,5 +8,9 @@ Test de las herramientas y comandos básicos.
 
 Hey que tal 
 
+<<<<<<< HEAD
 
 CREANDO CONFLISTIVIDÁ
+=======
+buenas noches, una cerve?
+>>>>>>> master
