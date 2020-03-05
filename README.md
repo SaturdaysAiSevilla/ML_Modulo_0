@@ -8,5 +8,27 @@ Test de las herramientas y comandos básicos.
 
 Hey que tal 
 
+<<<<<<< HEAD
+
+CREANDO CONFLISTIVIDÁ
+=======
 buenas noches, una cerve?
-makauli culkin
+>>>>>>> master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+makauli culking, esto no me lo pisais ya
